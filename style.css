@@ -118,7 +118,7 @@ img {
 /* Header */
 .header{
   padding: 2rem 0;
-  background-color:blue;
+  background-color:rgb(64, 21, 223);
 }
 .header__wrapper{
   display: flex;
@@ -364,7 +364,7 @@ transform: translateY(-32rem);
   
 }
 .banner__left li a {
-  background:blue;
+  background:rgb(9, 50, 231);
   padding:20px 40px;
   border-radius: 20rem;
   border:2px solid var(--light);
